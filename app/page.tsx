@@ -101,7 +101,7 @@ export default function Home() {
           <div className="relative inline-block">
             {/* Placeholder for Happy Image */}
             <div className="w-64 h-64 bg-white rounded-lg shadow-lg flex items-center justify-center border-4 border-red-400 overflow-hidden">
-              <img src="/us.jpeg" alt="Happy Valentine" className="object-cover w-full h-full" />
+              <img src="/us.jpeg" alt="Happy Valentine's Day!" className="object-cover w-full h-full" />
             </div>
           </div>
         </div>
